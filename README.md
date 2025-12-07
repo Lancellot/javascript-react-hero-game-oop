@@ -1,6 +1,6 @@
 # javascript-react-hero-game-oop
 Este projeto foi desenvolvido como parte do desafio "Escrevendo as Classes de um Jogo" da DIO, onde o objetivo é criar uma classe genérica que represente heróis de uma aventura, utilizando os conceitos fundamentais de programação orientada a objetos.
-[readme_dio.md](https://github.com/user-attachments/files/24020828/readme_dio.md)
+
 # ⚔️ Desafio DIO - Escrevendo as Classes de um Jogo
 
 <div align="center">
